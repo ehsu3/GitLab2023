@@ -12,6 +12,7 @@ public class GitLabHelper {
    
    public void PrintWelcomeMessage() {
        System.out.printf("This is a lesson on git made by: %s", Arrays.toString(persons));
+       System.out.println("John Mayer is actually a very valid musician.");
 
    }
 }
